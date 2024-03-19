@@ -56,7 +56,11 @@ La combinación de estas tecnologías proporcionó una solución robusta y efici
 Se siguieron los tutoriales de TodoCode 
 
 Parte 1: https://youtu.be/R1XT4jbz-Gg?si=tsy9aP_M-P3U6I_m
+
 Parte 2: https://youtu.be/-kWOjRa1fd0?si=vg-0-r1G3346dj7f
+
 Parte 3: https://youtu.be/6m82IB7g6hw?si=SuZSMiRsRBBu6UDu
+
 Parte 4: https://youtu.be/2HbczJw5Eho?si=fGYig9DKADrJWAXe
+
 Parte 5: https://youtu.be/cCf2IuHjLr4?si=7NeuandXLstaN6JX
