@@ -26,6 +26,9 @@ En el desarrollo de esta aplicación web para una clínica odontológica, se emp
 #### SB Admin 2 - Bootstrap Admin Theme
 - **Descripción**: SB Admin 2 es una plantilla gratuita para paneles de administración basada en Bootstrap, que ofrece una interfaz de usuario (UI) limpia y responsive para aplicaciones web.
 - **Rol en el Proyecto**: Fue utilizada como base para la interfaz de usuario del sistema de la clínica odontológica. Esta plantilla fue adaptada para satisfacer las necesidades específicas del proyecto, como formularios para registrar y gestionar pacientes, citas, y odontólogos. La elección de esta plantilla facilitó el desarrollo del frontend, proporcionando elementos de UI predefinidos y responsivos que mejoran la experiencia del usuario.
+- Recursos:
+
+  https://startbootstrap.com/theme/sb-admin-2
 
 ### Backend
 
@@ -47,3 +50,13 @@ En el desarrollo de esta aplicación web para una clínica odontológica, se emp
 
 ### Conclusión
 La combinación de estas tecnologías proporcionó una solución robusta y eficiente para el sistema de gestión de la clínica odontológica. El uso de Java EE, con sus Servlets y JPA, formó la columna vertebral del backend, gestionando la lógica de negocio y la interacción con la base de datos. Por otro lado, el frontend se benefició de la adaptabilidad y diseño de la plantilla SB Admin 2, asegurando una interfaz de usuario amigable y funcional. Juntos, estos componentes tecnológicos facilitaron el desarrollo de una aplicación web completa, capaz de satisfacer las necesidades específicas de la clínica odontológica.
+
+---
+
+Se siguieron los tutoriales de TodoCode 
+
+Parte 1: https://youtu.be/R1XT4jbz-Gg?si=tsy9aP_M-P3U6I_m
+Parte 2: https://youtu.be/-kWOjRa1fd0?si=vg-0-r1G3346dj7f
+Parte 3: https://youtu.be/6m82IB7g6hw?si=SuZSMiRsRBBu6UDu
+Parte 4: https://youtu.be/2HbczJw5Eho?si=fGYig9DKADrJWAXe
+Parte 5: https://youtu.be/cCf2IuHjLr4?si=7NeuandXLstaN6JX
